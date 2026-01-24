@@ -1,4 +1,4 @@
-package com.example.miloclicker
+package com.dumbpandabear.miloclicker
 
 import org.junit.Test
 

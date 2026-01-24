@@ -1,4 +1,4 @@
-package com.example.miloclicker.ui.theme
+package com.dumbpandabear.miloclicker.ui.theme
 
 import android.app.Activity
 import android.os.Build

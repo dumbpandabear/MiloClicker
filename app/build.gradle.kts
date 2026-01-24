@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.miloclicker"
+    namespace = "com.dumbpandabear.miloclicker"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.miloclicker"
+        applicationId = "com.dumbpandabear.miloclicker"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
