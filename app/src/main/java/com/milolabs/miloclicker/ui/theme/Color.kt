@@ -1,4 +1,4 @@
-package com.dumbpandabear.miloclicker.ui.theme
+package com.milolabs.miloclicker.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

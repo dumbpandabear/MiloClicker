@@ -1,4 +1,4 @@
-package com.dumbpandabear.miloclicker
+package com.milolabs.miloclicker
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -30,7 +30,7 @@ import androidx.compose.ui.unit.sp
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.tween
 import kotlin.random.Random
-import com.dumbpandabear.miloclicker.ui.theme.MiloClickerTheme
+import com.milolabs.miloclicker.ui.theme.MiloClickerTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
